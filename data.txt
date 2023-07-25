@@ -1,8 +1,0 @@
-api key:
-6cea74bb91191769bbc52a7c7ac7f4f8
-
-    <link
-        href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Roboto:wght@300;400;500;700;900&display=swap"
-        rel="stylesheet">
-
-<script src="https://kit.fontawesome.com/7c8801c017.js" crossorigin="anonymous"></script>
